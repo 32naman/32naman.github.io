@@ -1,0 +1,93 @@
+.con{
+  background-color:#d1d8e0 ;
+  height:1200vh;
+  color: white;
+  text-align: center;
+}
+
+
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+
+
+
+.myNav{
+  background: #fd746c;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff9068, #fd746c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ff9068, #fd746c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height:100vh;
+}
+
+.banner{
+  height:80vh;
+  font-size: 50px;
+  font-weight:650;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.list-group-item{
+  background: none
+}
+
+.navLink{
+  color:#ff9068;
+  text-decoration: none;
+}
+
+.navLink:hover{
+  color:#ff6348;
+  text-decoration: none;
+}
+
+p{
+  opacity: 0.6;
+}
+
+.fa {
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color:black;
+  opacity: 0.5;
+}
+
+.workType{
+  background-color:#ced6e0;
+  border: none;
+  color: green;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width:150px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  opacity: 0.4;
+}
+
+.myFooter{
+  background-color:#f1f2f6;
+}
+
+
+.contactLink{
+  text-decoration: none;
+  color:#A3CB38;
+}
+
+.contactLink:hover{
+  color:#A3CB38;
+}
