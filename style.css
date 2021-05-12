@@ -91,3 +91,6 @@ p{
 .contactLink:hover{
   color:#A3CB38;
 }
+.logo{
+  width:40px; height:40px; border-radius:50%;
+}
